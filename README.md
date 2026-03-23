@@ -12,11 +12,11 @@ BongaCams Downloader is a browser extension built for users who want a simpler w
 
 ## Links
 
-- ðŸš€ Get it here: [BongaCams Downloader](https://serp.ly/bongacams-video-downloader)
-- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/bongacams-downloader/releases/latest)
-- â“ Help center: [SERP Help](https://help.serp.co/en/)
-- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/bongacams-downloader/issues)
-- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/bongacams-downloader/issues)
+- :rocket: Get it here: [BongaCams Downloader](https://serp.ly/bongacams-video-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/bongacams-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/bongacams-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/bongacams-downloader/issues)
 
 ## Preview
 
@@ -158,6 +158,10 @@ They are saved to your default Downloads location, typically inside a BONGACAMS 
 
 **Do I need extra software?**  
 No. Everything runs through the browser extension.
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
 ## Notes
 
