@@ -1,4 +1,4 @@
-# BongaCams Downloader
+# BongaCams Downloader Browser Extension
 
 > Record BongaCams live streams and download saved videos as MP4 files for offline viewing.
 
