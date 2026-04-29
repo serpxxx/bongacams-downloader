@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "bongacams-downloader",
   "readme": "../ACTOR.md",
-  "title": "BongaCams Downloader Browser Extension",
+  "title": "BongaCams Downloader",
   "version": "0.0"
 }
