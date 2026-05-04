@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Bongacams Downloader is an automated tool for recording and downloading live streams and private shows from Bongacams. Features include scheduled recordings, auto-restart capabilities, and cloud storage integration for reliable content capture.",
+  "description": "BongaCams Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "bongacams-downloader",
   "readme": "../ACTOR.md",
-  "title": "BongaCams Downloader",
+  "title": "BongaCams Video Downloader | How to Download BongaCams Videos",
   "version": "0.0"
 }
