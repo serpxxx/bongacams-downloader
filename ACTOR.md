@@ -1,8 +1,12 @@
-# BongaCams Downloader
+# BongaCams Video Downloader | How to Download BongaCams Videos
 
 > Record BongaCams live streams and download saved videos as MP4 files for offline viewing.
 
-![Bongacams Downloader](https://raw.githubusercontent.com/serpxxx/bongacams-downloader/main/assets/workflow-preview.webp)
+## Get it Here
+
+Get it here: https://serp.ly/bongacams-downloader
+
+![BongaCams Downloader](https://raw.githubusercontent.com/serpxxx/bongacams-downloader/main/assets/workflow-preview.webp)
 
 BongaCams Downloader is a browser extension built for users who want a simpler way to keep BongaCams broadcasts and saved videos available outside the site. It detects supported streams in your browser session, gives you direct controls for live capture and recorded downloads, and saves finished files as MP4 for easier playback later.
 
@@ -11,11 +15,6 @@ BongaCams Downloader is a browser extension built for users who want a simpler w
 - Preserve supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
-
-## Get it Here
-
-Get it here: https://serp.ly/bongacams-downloader
-
 ## Table of Contents
 
 - [Why BongaCams Downloader](#why-bongacams-downloader)
